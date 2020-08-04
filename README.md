@@ -10,7 +10,7 @@
 <br><br>
 
 💬 Ask me about <br>
-NodeJs,Angular,HTML,CSS,SocketIo,MongoDB,PHP and ExpressJS. 
+NodeJs,Angular,HTML,CSS,SocketIo,MongoDB,PHP,JQuery and ExpressJS. 
 <br><br>
 
 📫 How to reach me <br>
