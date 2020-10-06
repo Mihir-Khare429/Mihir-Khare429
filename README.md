@@ -21,7 +21,7 @@ Hi, I'm Mihir Khare, a Full Stack Developer 🚀 from India, currently, I'm a Pr
 
 - 👨🏽‍💻 I’m currently working on Trailer 2 You.
 - 🌱 I’m currently learning Angular; 
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 🤔 I’m an Amateur in Data Structures and Algorithms but on the path of gaining Mastery;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: mkhare429@gmail.com;
 
