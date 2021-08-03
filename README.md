@@ -19,7 +19,6 @@ Hi, I'm Mihir Khare, a Full Stack Developer 🚀 from India, currently, I'm a Pr
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on Trailer 2 You.
 - 🌱 I’m currently learning React; 
 - 🤔 I’m an Amateur in Data Structures and Algorithms but on the path of gaining Mastery;
 - 💬 Ask me about anything, I am happy to help;
