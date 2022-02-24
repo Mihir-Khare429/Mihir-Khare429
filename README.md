@@ -13,7 +13,7 @@
 
 <br />
 
-Hi, I'm Mihir Khare, a Full Stack Developer 🚀 from India, currently, I'm a Prefinal CSE Student at Vellore Instistute of Technology , Vellore also Technical Advisor @ ADG-VIT , Backend Intern at @Applutions. Beside's programming, I enjoy watching Movies and listening Songs.
+Hi, I'm Mihir Khare, a Full Stack Developer 🚀 from India, currently, I'm a Final year CSE Student at Vellore Instistute of Technology , Vellore also Ex-Technical Advisor @ ADG-VIT , Ex-Backend Intern at @Applutions.Currently I am working as SDE Intern at Horsetails Inc. Beside's programming, I enjoy watching Movies and listening Songs.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
