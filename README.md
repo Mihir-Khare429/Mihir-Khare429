@@ -5,12 +5,27 @@
 
 ## Professional Summary
 
-Software Engineer with over 2 years of experience in distributed systems and machine learning engineering. Proficient in developing and maintaining scalable backend systems, optimizing databases, and deploying applications in cloud environments.
+Software Engineer and MS Computer Engineering student at NYU Tandon with strong experience in building scalable backend systems, data-intensive pipelines, and cloud-native platforms.
+Previously at McKinsey (MIO Partners), where I architected and piloted a serverless data lake using AWS Glue, Iceberg, Athena/Presto, and S3, reducing Excel extract runtimes by 58% and cutting data-field fetch latency by ~70% via columnar I/O, parallelism, and optimized partitioning.
 
-## Actively Seeking Internship Roles
+I’ve also built full-stack and ML-driven systems—including real-time facial-expression–powered media interfaces (Next.js + PyTorch), a trailer booking backend system (similar to Uber), and a production-grade LLM ops pipeline (FastAPI + vLLM + Redis Streams + Prometheus/Grafana).
 
-I am currently pursuing my Master's in Computer Engineering at New York University and actively looking for internship opportunities for Fall 2025. My interest lies in Software Development Engineer (SDE) and Machine Learning Engineer (MLE) roles. With my experience in distributed systems, cloud technologies, and machine learning frameworks, I am eager to contribute to and learn from innovative teams.
+My work spans distributed systems, ML systems, backend architecture, DevOps, and full-stack development.
 
+## Actively Seeking Full-Time SDE Roles
+
+I am currently pursuing my Master’s in Computer Engineering at NYU and am actively seeking Full-Time Software Engineer roles (SDE) starting in 2025–2026.
+I’m particularly interested in roles involving:
+
+- Backend engineering (distributed systems, APIs, databases)
+
+- Full-stack development (React/Next.js + backend/API + infra)
+
+- Cloud infrastructure & data engineering (AWS, Iceberg, Glue, Spark)
+
+- ML Systems / LLM infra (FastAPI, PyTorch, vLLM, deployment, optimization)
+
+With hands-on experience in architecting production systems, cloud-native data workflows, and modern ML pipelines, I’m excited to bring high-impact engineering to fast-moving teams.
 ## Education
 
 - **New York University**  
